@@ -1,0 +1,6 @@
+-relax:fast
+-default_max_cycles 200
+-constrain_relax_to_start_coords true
+
+-out:file:fullatom
+-out:pdb_gz
